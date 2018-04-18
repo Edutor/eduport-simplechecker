@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="eduport-simple_main" target="1.8" />
       <module name="eduport-simple_test" target="1.8" />
+      <module name="eduport-simplechecker_main" target="1.8" />
+      <module name="eduport-simplechecker_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

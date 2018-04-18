@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eduport-simple.iml" filepath="$PROJECT_DIR$/.idea/modules/eduport-simple.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eduport-simple_main.iml" filepath="$PROJECT_DIR$/.idea/modules/eduport-simple_main.iml" group="eduport-simple" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eduport-simple_test.iml" filepath="$PROJECT_DIR$/.idea/modules/eduport-simple_test.iml" group="eduport-simple" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eduport-simplechecker.iml" filepath="$PROJECT_DIR$/.idea/modules/eduport-simplechecker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eduport-simplechecker_main.iml" filepath="$PROJECT_DIR$/.idea/modules/eduport-simplechecker_main.iml" group="eduport-simplechecker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eduport-simplechecker_test.iml" filepath="$PROJECT_DIR$/.idea/modules/eduport-simplechecker_test.iml" group="eduport-simplechecker" />
     </modules>
   </component>
 </project>
