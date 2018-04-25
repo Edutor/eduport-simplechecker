@@ -7,7 +7,7 @@ class SimpleChecker : Port {
     if (!(challenge is StringChallenge)) throw IllegalArgumentException("Challenge should be string")
     if (!(solution is StringSolution)) throw IllegalArgumentException("Solution should be string")
 
-    if (challenge.answer == solution.text) return Assessment(solution, 12)
+    if (challenge.question == solution.answer) return Assessment(solution, 12)
     else return Assessment(solution, 0)
     }
 
